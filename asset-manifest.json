@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/autorization-only-css/static/css/main.cd45a8cd.css",
+    "main.js": "/autorization-only-css/static/js/main.61a6408b.js",
+    "index.html": "/autorization-only-css/index.html",
+    "main.cd45a8cd.css.map": "/autorization-only-css/static/css/main.cd45a8cd.css.map",
+    "main.61a6408b.js.map": "/autorization-only-css/static/js/main.61a6408b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd45a8cd.css",
+    "static/js/main.61a6408b.js"
+  ]
+}
